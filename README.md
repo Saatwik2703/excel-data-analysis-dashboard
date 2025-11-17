@@ -2,7 +2,7 @@
 
 ### Dashboard File: 
 
-**Excel_Dashboard.xlsx**
+https://github.com/Saatwik2703/excel-data-analysis-dashboard/blob/main/Excel_Dashboard.xlsx
 
 ---
 
